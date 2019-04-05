@@ -1,0 +1,55 @@
+[
+    {
+        "name": {
+            "Value": "Manish Vishnoi",
+            "Hash": "0988fa3cce558828c85b881cec8289c329184502d9c8e066ca7263836cd7316a",
+            "Proof": [
+                {
+                    "right": "a294cbfc0df808b587306f6f5bc63a09961e1e2ca9e8767a9b55e272173e3d28"
+                },
+                {
+                    "right": "69e311d8466fb9fd01a6578f655527948d156f11aa11de30a12c3aac36f4f5e3"
+                }
+            ]
+        },
+        "username": {
+            "Value": "mvishnoi",
+            "Hash": "a294cbfc0df808b587306f6f5bc63a09961e1e2ca9e8767a9b55e272173e3d28",
+            "Proof": [
+                {
+                    "left": "0988fa3cce558828c85b881cec8289c329184502d9c8e066ca7263836cd7316a"
+                },
+                {
+                    "right": "69e311d8466fb9fd01a6578f655527948d156f11aa11de30a12c3aac36f4f5e3"
+                }
+            ]
+        },
+        "gender": {
+            "Value": "male",
+            "Hash": "0d248e82c62c9386878327d491c762a002152d42ab2c391a31c44d9f62675ddf",
+            "Proof": [
+                {
+                    "right": "ff7c723b3fca369f45b683e9f357a25c6a32eb8cbcc5554fe395e6303d013d8f"
+                },
+                {
+                    "left": "c55853cb43a9daa212cd504ff6ff6b36dace694fb7dc587b144a7551e3de3601"
+                }
+            ]
+        },
+        "claim": {
+            "Value": "No claim data is available.",
+            "Hash": "ff7c723b3fca369f45b683e9f357a25c6a32eb8cbcc5554fe395e6303d013d8f",
+            "Proof": [
+                {
+                    "left": "0d248e82c62c9386878327d491c762a002152d42ab2c391a31c44d9f62675ddf"
+                },
+                {
+                    "left": "c55853cb43a9daa212cd504ff6ff6b36dace694fb7dc587b144a7551e3de3601"
+                }
+            ]
+        }
+    },
+    {
+        "Merkle_root": "9104aaae8d93e80d89ee09b8ff1b6a0cd2c1d7bd6e79b4232fd683bc16595561"
+    }
+]
